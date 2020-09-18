@@ -22,4 +22,3 @@ $ frame = cv2.imdecode(npimg, 1) # Decode to Original Frame
 
 then, use cv2.imwrite write to image file.  
 $ cv2.imwrite("output.jpg", frame)  
-## PJ_ccd_Contorller  
